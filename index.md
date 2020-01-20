@@ -18,13 +18,17 @@ This is a [Good site on Etsy](https://www.etsy.com/market/its_5_oclock_somewhere
 2. List
 
 *Italic Text using 1 asterisk*
+
 _Italic Text using 1 underbar_
+
 **Bold Text using 2 asterisks**
+
 __Bold Text using 2 underbars__
 
 [Link](url) and ![Image](src)
 
-```I'm not really sure
+```
+I'm not really sure
 What three backquotes is for.
 We will find out
 Really for sure.
