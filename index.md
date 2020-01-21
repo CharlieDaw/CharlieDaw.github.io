@@ -28,11 +28,17 @@ __Bold Text using 2 underbars__
 [Link](url) and ![Image](src)
 
 ```
-I'm not really sure
-What three backquotes is for.
-We will find out
-Really for sure.
+This block is surrounded
+by triple backquotes.
+I think you can see
+What that does.
 ```
+
+    This block is indented
+    four spaces.
+    I think you can see
+    what that does.
+    
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
